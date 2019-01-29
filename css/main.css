@@ -1,0 +1,45 @@
+:root {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  margin: 60px auto;
+  width: 80%;
+  max-width: 600px;
+}
+
+nav ul,
+footer ul {
+  padding: 0px;
+  list-style: none;
+}
+
+nav ul li,
+footer ul li {
+  font-weight: 700;
+  display: inline;
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #db3236;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 1.8em;
+  font-weight: 400;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.4em;
+  color: #333;
+}
+
+footer {
+  border-top: 1px solid #d5d5d5;
+  font-size: .8em;
+}

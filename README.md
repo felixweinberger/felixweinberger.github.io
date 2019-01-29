@@ -1,2 +1,2 @@
-# felixweinberger.github.io
-Personal Github page
+# Github page
+Repository for personal github pages site
