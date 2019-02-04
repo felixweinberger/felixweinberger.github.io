@@ -43,6 +43,9 @@ p {
 
 footer {
   border-top: 1px solid #d5d5d5;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 /* HiDPI Phone */

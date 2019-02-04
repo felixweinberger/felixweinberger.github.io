@@ -3,8 +3,12 @@
 
 <head>
   <title>{{ page.title }}</title>
+
+  <!-- Meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="google-site-verification" content="pC8iaoTjQEJOW2CUJ-ykXAZtX8YJbj_XYk1YWN6u2Rc" />
+
+  <!-- Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -12,12 +16,15 @@
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
+
+  <!-- Styles -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
   <link href="/css/main.css" type="text/css" rel="stylesheet">
 </head>
 
 <body>
+  <h1>{{ page.title }}</h1>
   <div class="container">
     {{ content }}
   </div>
@@ -28,6 +35,7 @@
       <li><a href="https://github.com/felixweinberger"><i class="fab fa-github-square"></i></a></li>
       <li><a href="https://linkedin.com/in/felixweinberger"><i class="fab fa-linkedin"></i></a></li>
     </ul>
+    <div class="footer__copyright">&copy Felix Weinberger 2019</div>
   </footer>
 </body>
 
