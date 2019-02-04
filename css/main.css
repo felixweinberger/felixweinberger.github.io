@@ -1,3 +1,4 @@
+/* Defaults */
 :root {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
@@ -6,8 +7,37 @@
   max-width: 700px;
 }
 
+/* Content */
+h1 {
+  font-size: 2em;
+  font-weight: 400;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.4em;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+  color: #db3236;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  border-top: 1px solid #d5d5d5;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 footer ul {
-  padding: 0px;
+  padding: 0;
   list-style: none;
 }
 
@@ -21,34 +51,7 @@ i:hover {
   transform: scale(1.2);
 }
 
-a {
-  text-decoration: none;
-  color: #db3236;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-h1 {
-  font-size: 2em;
-  font-weight: 400;
-}
-
-p {
-  font-size: 1.1em;
-  line-height: 1.4em;
-  color: #333;
-}
-
-footer {
-  border-top: 1px solid #d5d5d5;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-/* HiDPI Phone */
+/* HiDPI phones */
 @media only screen and (min-device-width : 375px) and (max-device-width : 812px) and (-webkit-device-pixel-ratio : 3) {
   :root {
     margin: auto auto;
