@@ -3,9 +3,10 @@ layout: default
 title: Felix Weinberger
 ---
 
-I'm Felix. I'm a management consultant with an interest in technology, economics and data science. Originally from Austria, I currently work at [Bain & Company](https://bain.com) in Munich.
+*Former management consultant and economist turned software engineer.*
 
-Before joining Bain I studied Economics at LSE and Warwick in the UK. I gained experience as an economist during several internships in antitrust, energy and the British Government Economic Service.
+My development experience is primarily in building B2C apps with React & React Native with Redux on the front-end and Node.js & Express (some Koa) with various SQL and NoSQL databases on the back-end. Originally from Austria, I currently live in London.
 
-I enjoy technical work and build projects like [rohrrechner.at](https://rohrrechner.at) (a shipping weight calculation utility for steel pipe vendors and buyers) in my spare time.
+Before becoming an engineer, I worked as a management consultant at [Bain & Company](https://bain.com), primarily in the technology and telecommunications team. Before that, I studied Economics at LSE and Warwick in the UK, where I gained experience as an economist during several internships in antitrust, renewable energy and the British Government Economic Service.
 
+Feel free to connect with me on [GitHub](https://github.com/felixweinberger) or [LinkedIn](https://linkedin.com/in/felixweinberger) or send me an [Email](mailto:felix.weinberger@gmail.com).
