@@ -21,25 +21,27 @@
 </head>
 
 <body>
-  <nav>
-    <ul>
-      <li><a href="/">About</a></li>
-      <li><a href="/projects">Projects</a></li>
-    </ul>
-  </nav>
-  <h1>{{ page.title }}</h1>
   <div class="container">
-    {{ content }}
+    <nav>
+      <ul>
+        <li><a href="/">About</a></li>
+        <li><a href="/projects">Projects</a></li>
+      </ul>
+    </nav>
+    <h1>{{ page.title }}</h1>
+    <div>
+      {{ content }}
+    </div>
+    <footer>
+      <ul>
+        <li><a href="/assets/felixweinberger-cv.pdf"><i class="fas fa-file"></i></a></li>
+        <li><a href="https://github.com/felixweinberger"><i class="fab fa-github-square"></i></a></li>
+        <li><a href="https://linkedin.com/in/felixweinberger"><i class="fab fa-linkedin"></i></a></li>
+        <li><a href="mailto:felix.weinberger@gmail.com"><i class="fas fa-envelope"></i></a></li>
+      </ul>
+      <!-- <div>&copy Felix W. 2019</div> -->
+    </footer>
   </div>
-  <footer>
-    <ul>
-      <li><a href="/assets/felixweinberger-cv.pdf"><i class="fas fa-file"></i></a></li>
-      <li><a href="https://github.com/felixweinberger"><i class="fab fa-github-square"></i></a></li>
-      <li><a href="https://linkedin.com/in/felixweinberger"><i class="fab fa-linkedin"></i></a></li>
-      <li><a href="mailto:felix.weinberger@gmail.com"><i class="fas fa-envelope"></i></a></li>
-    </ul>
-    <!-- <div>&copy Felix W. 2019</div> -->
-  </footer>
 </body>
 
 </html>

@@ -5,7 +5,7 @@ title: Felix Weinberger
 
 *Former management consultant and economist turned software engineer.*
 
-My development experience is primarily in building B2C apps with React & React Native with Redux on the front-end and Node.js & Express (some Koa) with various SQL and NoSQL databases on the back-end. Originally from Austria, I currently live in London.
+My development experience is concentrated in building B2C apps using React & React Native with Redux on the front-end and Node.js & Express (some Koa) with various SQL and NoSQL databases on the back-end. Originally from Austria, I currently live in London.
 
 Before becoming an engineer, I worked as a management consultant at [Bain & Company](https://bain.com), primarily in the technology and telecommunications team. Before that, I studied Economics at LSE and Warwick in the UK, where I gained experience as an economist during several internships in antitrust, renewable energy and the British Government Economic Service.
 
