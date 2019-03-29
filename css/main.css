@@ -1,10 +1,10 @@
 /* Defaults */
 :root {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   margin: auto;
   width: 80%;
-  max-width: 600px;
+  max-width: 800px;
 }
 
 ::-webkit-scrollbar {
@@ -15,6 +15,8 @@
 nav ul,
 footer ul {
   padding: 0px;
+  font-size: 1.1em;
+  /* font-weight: 700; */
   list-style: none;
 }
 
