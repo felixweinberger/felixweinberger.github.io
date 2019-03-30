@@ -2,13 +2,20 @@
 :root {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
-  margin: auto;
   width: 80%;
-  max-width: 800px;
+  margin: auto;
+  max-width: 700px;
 }
 
 ::-webkit-scrollbar {
   display: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 90vh;
 }
 
 /* Navigation */
