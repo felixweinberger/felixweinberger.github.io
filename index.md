@@ -3,12 +3,8 @@ layout: default
 title: Felix Weinberger
 ---
 
-*Software Engineer*
+Looks like you've found my website. 
 
-*JavaScript* \| *TypeScript* \| *Python* \| *React* \| *React Native* \| *Econometrics & ML*
+I don't really use it for anything (but I might one day).
 
-My development experience is concentrated on the JavaScript, Node.js & TypeScript ecosystem. I've built B2C apps using React & React Native on the front-end and Node.js & Express with various SQL and NoSQL databases on the back-end. 
-
-I currently work at [Endeavor Streaming](https://endeavorstreaming.com/), building the mobile apps and infrastructure behind the live streaming offerings of several major sports leagues. I previously worked as a consultant at [Bain & Company](https://bain.com/), primarily in the technology and telecommunications team. Originally from Austria, I currently live in London.
-
-Feel free to connect with me on [GitHub](https://github.com/felixweinberger) or [LinkedIn](https://linkedin.com/in/felixweinberger) or send me an [Email](mailto:felix.weinberger@gmail.com).
+Feel free to connect with me on [GitHub](https://github.com/felixweinberger) or [LinkedIn](https://linkedin.com/in/felixweinberger) or send me an [Email](mailto:felix.weinberger@gmail.com) if you came here through a search engine.
