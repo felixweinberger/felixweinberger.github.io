@@ -1,0 +1,5 @@
+name: Felix Weinberger
+markdown: kramdown
+url: "https://felixweinberger.com"
+plugins:
+  - jekyll-sitemap

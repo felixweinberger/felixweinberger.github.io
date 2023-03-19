@@ -1,0 +1,78 @@
+/* Defaults */
+:root {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 300;
+  width: 80%;
+  margin: auto;
+  max-width: 700px;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Navigation */
+nav ul,
+footer ul {
+  padding: 0px;
+  font-size: 1.1em;
+  /* font-weight: 700; */
+  list-style: none;
+}
+
+nav ul li,
+footer ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+/* Content */
+h1 {
+  font-size: 2em;
+  font-weight: 300;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.4em;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+  color: #db3236;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  border-top: 1px solid #d5d5d5;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+footer ul {
+  padding: 0;
+  list-style: none;
+}
+
+footer ul li {
+  font-size: 1.5em;
+  display: inline;
+  margin-right: 20px;
+}
+
+i:hover {
+  transform: scale(1.2);
+}
+
+/* HiDPI phones */
+@media only screen and (min-device-width : 375px) and (max-device-width : 812px) and (-webkit-device-pixel-ratio : 3) {
+  :root {
+    margin: auto auto;
+  }
+}
